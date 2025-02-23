@@ -84,8 +84,8 @@
     <string name="tristate_flashlight_on">Senter hidup</string>
     <string name="tristate_flashlight_off">Senter mati</string>
     <string name="tristate_flashlight_blink">Senter berkedip</string>
-    <string name="tristate_brightness_bright">Cerah maksimum</string>
-    <string name="tristate_brightness_dark">Cerah minimum</string>
+    <string name="tristate_brightness_bright">Kecerahan maksimum</string>
+    <string name="tristate_brightness_dark">Kecerahan minimum</string>
     <string name="tristate_brightness_auto">Kecerahan Otomatis</string>
     <string name="tristate_rotation_auto">Rotasi Otomatis</string>
     <string name="tristate_rotation_0">Potret</string>
