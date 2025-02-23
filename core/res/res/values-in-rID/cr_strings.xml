@@ -20,7 +20,7 @@
     <string name="url_copy_success">URL berhasil disalin</string>
     <string name="url_copy_failed">Terjadi kesalahan pada saat mengunggah log ke Pasty</string>
     <!-- Lock gesture -->
-    <string name="gesture_locked_warning">Gesek lagi untuk membuka kunci gesek</string>
+    <string name="gesture_locked_warning">Usap lagi untuk membuka kunci gestur</string>
     <!-- Pocket Lock -->
     <string name="pocket_mode_title">Mode saku aktif</string>
     <string name="pocket_mode_illustration_description">Ilustrasi telepon di saku</string>
