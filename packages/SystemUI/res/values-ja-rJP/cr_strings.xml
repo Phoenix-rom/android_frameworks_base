@@ -143,5 +143,5 @@
     <!-- Text while recognizing face -->
     <string name="face_unlock_recognizing">顔を認識中...</string>
     <!-- 5G toggle in Internet Dialog -->
-    <string name="enable_fiveg">Enable 5G</string>
+    <string name="enable_fiveg">5G通信を有効化</string>
 </resources>
