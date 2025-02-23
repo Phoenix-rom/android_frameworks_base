@@ -137,7 +137,7 @@
     <string name="screenshot_long_press">長按 - 局部選取</string>
     <!-- Language toggle tile -->
     <string name="quick_settings_locale_label">語言</string>
-    <string name="quick_settings_locale_more_locales_toast">先配置多種語言</string>
+    <string name="quick_settings_locale_more_locales_toast">請先設定多種語言</string>
     <!-- AI Assistant affordance [CHAR LIMIT=32] -->
     <string name="accessibility_assistant_button">AI 助理</string>
     <!-- Text while recognizing face -->
