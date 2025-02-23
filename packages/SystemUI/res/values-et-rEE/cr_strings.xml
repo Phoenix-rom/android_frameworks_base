@@ -28,9 +28,9 @@
     <!-- Name of the roaming status bar icon. -->
     <string name="status_bar_roaming">Rändlusindikaator</string>
     <!-- Name of the HD calling status bar icon. -->
-    <string name="status_bar_hd_calling">HD calling (VoLTE/VoNR)</string>
+    <string name="status_bar_hd_calling">HD helistamine (VoLTE/VoNR)</string>
     <!-- Name of the VoWiFi status bar icon. -->
-    <string name="status_bar_vowifi">Wi-Fi calling (VoWiFi)</string>
+    <string name="status_bar_vowifi">Wi-Fi helistamine (VoWiFi)</string>
     <!-- Status bar network traffic monitor strings -->
     <string name="kilobitspersecond_short">kb/s</string>
     <string name="megabitspersecond_short">Mb/s</string>
@@ -140,9 +140,9 @@
     <string name="quick_settings_locale_label">Keel</string>
     <string name="quick_settings_locale_more_locales_toast">Seadista kõigepealt mitu keelt</string>
     <!-- AI Assistant affordance [CHAR LIMIT=32] -->
-    <string name="accessibility_assistant_button">AI Assistant</string>
+    <string name="accessibility_assistant_button">AI assistent</string>
     <!-- Text while recognizing face -->
     <string name="face_unlock_recognizing">Näotuvastus...</string>
     <!-- 5G toggle in Internet Dialog -->
-    <string name="enable_fiveg">Enable 5G</string>
+    <string name="enable_fiveg">Luba 5G</string>
 </resources>
