@@ -30,9 +30,9 @@
     <!-- Name of the roaming status bar icon. -->
     <string name="status_bar_roaming">Indikátor roamingu</string>
     <!-- Name of the HD calling status bar icon. -->
-    <string name="status_bar_hd_calling">HD calling (VoLTE/VoNR)</string>
+    <string name="status_bar_hd_calling">Hovory v HD kvalite (VoLTE/VoNR)</string>
     <!-- Name of the VoWiFi status bar icon. -->
-    <string name="status_bar_vowifi">Wi-Fi calling (VoWiFi)</string>
+    <string name="status_bar_vowifi">Hovory cez Wi-Fi (VoWiFi)</string>
     <!-- Status bar network traffic monitor strings -->
     <string name="kilobitspersecond_short">kb/s</string>
     <string name="megabitspersecond_short">Mb/s</string>
@@ -65,18 +65,18 @@
     <string name="keyguard_indication_turbo_power_time"><xliff:g id="percent">%2$s</xliff:g> • Turbo Nabíjanie (<xliff:g id="charging_time_left" príklad="4 hodiny a 2 minúty">%1$s</xliff:g> do nabitia)</string>
     <string name="keyguard_plugged_in_turbo_charging"><xliff:g id="percentage">%s</xliff:g> • Turbo nabíjanie</string>
     <!-- On The Go -->
-    <string name="onthego_notif_ticker">Režim On-The-Go aktivovaný</string>
-    <string name="onthego_notif_title">Režim On-The-Go je aktívny</string>
+    <string name="onthego_notif_ticker">Režim priehľadnej obrazovky aktivovaný</string>
+    <string name="onthego_notif_title">Režim priehľadnej obrazovky je aktívny</string>
     <string name="onthego_notif_stop">Zastaviť</string>
     <string name="onthego_notif_options">Možnosti</string>
-    <string name="onthego_notif_error">Nepodarilo sa spustiť Režim On-The-Go</string>
-    <string name="onthego_notif_restart">Reštartovať On-The-Go</string>
+    <string name="onthego_notif_error">Nepodarilo sa spustiť Režim priehľadnej obrazovky</string>
+    <string name="onthego_notif_restart">Reštartovať režim priehľadnej obrazovky</string>
     <string name="onthego_notif_camera_changed">Režim fotoaparátu bol zmenený</string>
     <string name="onthego_transparency">Priehľadnosť</string>
     <string name="onthego_front_camera">Použiť prednú kameru</string>
     <string name="onthego_service_toggle">Automaticky reštartovať službu</string>
     <string name="onthego_channel_name">Hlavné</string>
-    <string name="global_action_onthego">Režim na cestách</string>
+    <string name="global_action_onthego">Režim priehľadnej obrazovky</string>
     <!-- Button to restart SystemUI, within the Restart Options dialog -->
     <string name="global_action_restart_systemui">SystemUI</string>
     <!-- Alert slide extras -->
@@ -86,7 +86,7 @@
     <string name="tristate_flashlight">Svietidlo</string>
     <string name="tristate_flashlight_on">Svietidlo zapnuté</string>
     <string name="tristate_flashlight_off">Svietidlo vypnuté</string>
-    <string name="tristate_flashlight_blink">Blikání svietidla</string>
+    <string name="tristate_flashlight_blink">Blikanie svietidla</string>
     <string name="tristate_brightness_bright">Maximálny jas</string>
     <string name="tristate_brightness_dark">Minimálny jas</string>
     <string name="tristate_brightness_auto">Automatický jas</string>
@@ -127,8 +127,8 @@
     <!-- Volume panel QS tile -->
     <string name="quick_settings_volume_panel_label">Panel hlasitosti</string>
     <!-- Smart Pixels QS Tile -->
-    <string name="quick_settings_smart_pixels">Smart Pixels</string>
-    <string name="quick_settings_smart_pixels_on_power_save">Automaticky zapnúť Smart Pixels</string>
+    <string name="quick_settings_smart_pixels">Režim inteligentných pixelov</string>
+    <string name="quick_settings_smart_pixels_on_power_save">Automaticky zapnúť režim inteligentných pixlov</string>
     <!-- Weather Tile -->
     <string name="omnijaws_service_error">Chyba pri načítavaní údajov o počasí</string>
     <string name="omnijaws_service_unknown">Žiadne údaje o počasí</string>
@@ -139,12 +139,12 @@
     <!-- Screenshot Tile -->
     <string name="screenshot_long_press">Dlhé stlačenie - vybraný región</string>
     <!-- Language toggle tile -->
-    <string name="quick_settings_locale_label">Jazyk</string>
+    <string name="quick_settings_locale_label">Prebieha rozpoznávanie tváre...</string>
     <string name="quick_settings_locale_more_locales_toast">Najskôr nastavte viac jazykov</string>
     <!-- AI Assistant affordance [CHAR LIMIT=32] -->
     <string name="accessibility_assistant_button">AI asistent</string>
     <!-- Text while recognizing face -->
-    <string name="face_unlock_recognizing">Prebieha rozpoznávanie...</string>
+    <string name="face_unlock_recognizing">Prebieha rozpoznávanie tváre...</string>
     <!-- 5G toggle in Internet Dialog -->
-    <string name="enable_fiveg">Enable 5G</string>
+    <string name="enable_fiveg">Povoliť 5G</string>
 </resources>
