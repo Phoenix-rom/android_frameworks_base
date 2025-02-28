@@ -135,5 +135,5 @@
     <!-- 5G toggle in Internet Dialog -->
     <string name="enable_fiveg">Az 5G engedélyezése</string>
     <!-- Toast for timer chips long press -->
-    <string name="chip_longpress_hint">Long press to directly stop</string>
+    <string name="chip_longpress_hint">Tartsa nyomva a közvetlen leállításhoz</string>
 </resources>
